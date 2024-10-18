@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to account related Production APIs"
+  message: "Welcome to account related Prod APIs"
   contactDetails:
     name: "Prabath Shalitha"
     email: "{cipher}28a9ef3317508f3eb2f3eda3fee28877d96757ed39cb47ea755f0964854c2134"

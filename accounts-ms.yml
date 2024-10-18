@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to account related APIs"
   contactDetails:
     name: "Prabath Shalitha"
-    email: "ps@gmail.com"
+    email: "{cipher}28a9ef3317508f3eb2f3eda3fee28877d96757ed39cb47ea755f0964854c2134"
   onCallSupport:
     - (011) 1122334
     - (011) 2244668
